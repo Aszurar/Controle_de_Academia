@@ -1,7 +1,7 @@
 # Controle de Academia | LaunchBase
-Foodfy é uma plataforma voltada para culinária que contém receitas, demonstrações e dicas sobre diversos pratos, está sendo criado, atualizado com o passar das fases do curso **Bootcamp LaunchBase da Rocketseat.**
+ O projeto de Controle de Academia é uma plataforma web voltada para o gerenciamentos de intrutores e membros de uma academia, sistema de  cadastro, atualização, remoção e listagem em conjunto com os verbos HTTP dos participantes de uma academia foram alguns dos novos conhecimentos adquiridos nesse projeto do **Bootcamp LaunchBase da Rocketseat.**
 ___
-<h2 align="center">Foodfy</h2>
+<h2 align="center">Controle de Academia</h2>
 
 ___
 
@@ -15,7 +15,7 @@ ___
 
 ___
 
-<div align="center" ><img src="https://i.imgur.com/zdaP1zd.gif" width="600"></div> 
+<div align="center" ><img src="" width="600"></div> 
 
 ___
 
