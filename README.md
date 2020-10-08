@@ -1,6 +1,5 @@
 # Controle de Academia | LaunchBase
- O projeto de Controle de Academia é uma plataforma web voltada para o gerenciamentos de intrutores e membros de uma academia, sistema de  cadastro, atualização, remoção e listagem em conjunto com os verbos HTTP dos participantes de uma academia foram alguns dos novos conhecimentos adquiridos nesse projeto do **Bootcamp LaunchBase da Rocketseat.**
-___
+ O projeto de Controle de Academia é uma plataforma de gerenciamento de membros e instrutures de uma academia!.
 <h2 align="center">Controle de Academia</h2>
 
 ___
@@ -21,8 +20,7 @@ ___
 
 ## :information_source: Sobre
 
-O projeto é uma **plataforma voltada para culinária** que demonstra várias receitas, modos de preparo, dicas e sugestões sobre diversos pratos.
-O projeto surgiu a partir da 2º fase do Bootcamp é atualizado a cada módulo terminado no curso **Bootcamp LaunchBase da Rocketseat**.
+O projeto de Controle de Academia é uma plataforma web voltada para o gerenciamentos de intrutores e membros de uma academia, sistema de  cadastro, atualização, remoção e listagem em conjunto com os verbos HTTP dos participantes de uma academia foram alguns dos novos conhecimentos adquiridos nesse projeto do **Bootcamp LaunchBase da Rocketseat.**
 ___
 ## :interrobang: Motivo
 
