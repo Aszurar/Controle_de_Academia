@@ -44,7 +44,7 @@ ___
 
   - Clonar o projeto:
 ```bash
-  $ git clone https://github.com/Aszurar/Foodfy.git
+  $ git clone https://github.com/Aszurar/Controle_de_Academia.git
 ```
 - Entrar na pasta do projeto:
 ```bash
@@ -71,6 +71,18 @@ ___
 - Instalar o Nunjucks:
 ```bash
   $ npm install nunjucks
+```
+ - Instalar o  Browser-sync e npm-run-all:
+```bash
+  $ npm install browser-sync npm-run-all -D
+```
+ - Após isso configure o script do arquivo package.json assim:
+ ```bash
+   "scripts": {
+    "start": "npm-run-all -p nodemon browsersync",
+    "nodemon": "nodemon server.js",
+    "browsersync": "browser-sync start --proxy http://localhost:5010 --files 'public,views'"
+  },
 ```
  - Execução:
  ```bash
