@@ -28,7 +28,7 @@ O Intuito é praticar os conhecimentos absorvidos ao longo do curso de javascrip
 ___
 ## :seedling: Requisitos Mínimos
 
-Node.js, Nunjucks e Express.
+Node.js, Nunjucks, Express, Browser-sync, npm-run-all e method-override.
 ___
 ## :rocket: Tecnologias Utilizadas 
 
