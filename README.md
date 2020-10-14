@@ -90,7 +90,6 @@ ___
 ```
 - A utilização d o browser-sync e npm-run-all basicamente serve para que o site seja aberto automaticamente assim que executamos o projeto, que a página na web se atualize cada veze que realizarmos alguma mudança no projeto, ou seja, a sincronia estea totalmente automática, facilitando o desenvolvimento.
 - As configurações no serve.js já estão feitas para utilizarem essas ferramentas.
-- Como adicional, mas não obrigatório, para facilitar a atualização da página com alterações feitas no css, njk e js, sugiro criar um arquivo json na pasta do projeto com nome nodemon, exemplo nodemon.json, e nesse arquivo escrever essa configuração:
 ```json
 {   
     "ignore": ["*.json"] 
